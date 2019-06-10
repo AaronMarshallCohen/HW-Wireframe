@@ -35,11 +35,12 @@ body {
     float: left;
     padding: 25px 10px; 
 
+
 }
 .aside {
     background-color: #ebebeb;
-    padding: 30px;
-    width: 420px;
+    padding: 25px;
+    width: 425px;
     height:250px;
     float: right;
     
@@ -65,14 +66,14 @@ body {
 h1 {
     color: #777;
     background: #ebebeb;
-    margin: 10px;
+    margin: 20px;
     padding: 10px;
     width: 400px;
 }
 p {
     color: #777;
     background: #ebebeb;
-    margin: 10px;
+    margin: 20px;
     padding: 10px;
     width: 400px;
 }
